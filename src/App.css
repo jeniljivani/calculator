@@ -1,0 +1,66 @@
+/* .cal
+{
+  width: 25%;
+  margin-top: 50px !important;
+  margin: auto;
+  border: 1px solid gray;
+  padding: 5px;
+  border-radius: 5px;
+}
+.disp
+{
+  margin-bottom: 10px;
+  padding: 10px 5px;
+  text-align: end;
+  border: 1px solid black;
+}
+.disp input{
+  height: 20px;
+  border: none;
+  text-align: end;
+  font-size: 20px;
+  color: black;
+
+}
+.disp input:focus-visible
+{
+  box-shadow: none;
+}
+.btn
+{
+  font-size: 18px;
+  width: 50px;
+  height: 50px;
+  background-color: aliceblue;
+} */
+
+
+.cal
+{
+  width: 20%;
+  margin: auto;
+  /* background-color: black; */
+}
+.btn
+{
+  width: 50px;
+  height: 50px;
+  margin: 3px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgba(191, 211, 249, 0.844);
+  color: blue;
+  font-size: 18px;
+}
+.dis
+{
+  width: 200px;
+  text-align: right;
+  margin: 10px 0px;
+  padding: 10px 3px 10px 0px;
+  font-size: 20px;
+}
+.btnsin{
+  background-color: blue;
+  color: white;
+}
